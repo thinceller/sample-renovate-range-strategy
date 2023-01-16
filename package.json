@@ -1,0 +1,11 @@
+{
+  "name": "sample-renovate-range-strategy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "thinceller <thinceller@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  }
+}
